@@ -17,3 +17,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 count = "just_count.count_count:main"
+square = "just_count.square:square"
